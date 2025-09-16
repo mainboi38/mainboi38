@@ -125,9 +125,11 @@ Supports OpenAI + Anthropic, with live front-end scoring.
 ![Helm](https://img.shields.io/badge/Helm-6A5ACD?style=for-the-badge&logo=helm&logoColor=white)
 
 ### **AI & ML**
-![OpenAI](https://img.shields.io/badge/OpenAI-20B2AA?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-20B2AA?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-6A5ACD?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-20B2AA?style=for-the-badge&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-20B2AA?style=for-the-badge&logo=airflow&logoColor=white)
+![Autogen](https://img.shields.io/badge/Autogen-6A5ACD?style=for-the-badge&logo=autogen&logoColor=white)
 
 ### **Cloud & On-Prem Infrastructures**
 ![AWS](https://img.shields.io/badge/AWS-20B2AA?style=for-the-badge&logo=aws&logoColor=white)
