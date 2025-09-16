@@ -10,9 +10,7 @@
   <a href="https://github.com/mainboi38/puppetdemo">Puppet Demo</a> •
   <a href="https://github.com/mainboi38/LLMThreatModeler">LLM Threat Modeler</a> •
   <a href="https://github.com/mainboi38/LLM_LeetCodeArena">AI LeetCode Arena</a> •
-  <a href="https://github.com/mainboi38/mlops-rag-pipeline">MLOps RAG Pipeline</a> •
-  <a href="https://github.com/mainboi38/KuberntesLLMFlow">Kubernetes LLM Flow</a> •
-  <a href="https://github.com/mainboi38/Flowise">Flowise (fork)</a>
+  <a href="https://github.com/mainboi38/mlops-rag-pipeline">MLOps RAG Pipeline</a>
 </p>
 
 <!-- Dynamic typing effect summarising the essence of the projects -->
