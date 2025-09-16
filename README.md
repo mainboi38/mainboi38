@@ -26,18 +26,15 @@
 
 ## 🔭 What I’ve Built
 
-- **Transcriber** – A command‑line tool that converts video/audio into text using OpenAI’s transcription models.  It leverages `ffmpeg` to convert media to audio and automatically transcribes via the OpenAI API【177499714722441†L0-L32】.
-- **Puppet Demo** – An educational environment combining Vagrant, Ansible and Puppet to provision and enforce a simple web server.  Ansible installs Apache and Puppet ensures `/var/www/html/index.html` contains a predefined message with periodic enforcement【241436052671260†L1-L45】.
-- **LLMThreatModeler** – Generates STRIDE‑based threat models from architectural descriptions.  It decomposes systems into components, enumerates threats, produces Mermaid diagrams, and saves Markdown reports【922886391925824†L2-L35】.
-- **AI LeetCode Battle Arena** – A web app where multiple LLMs compete to solve and evaluate coding problems.  It supports OpenAI and Anthropic models, keeps API keys server‑side, and features an interactive front‑end【366560122992946†L2-L17】.
-- **MLOps RAG Pipeline** – A production‑ready Retrieval‑Augmented Generation (RAG) pipeline on Kubernetes.  It includes a Streamlit UI, FastAPI gateway, vector database (Qdrant), Helm charts, Kubernetes manifests and deployment scripts with monitoring via Prometheus/Grafana【6294579780847†L311-L345】【6294579780847†L355-L364】.
-- **Kubernetes LLM Flow** – A reference implementation for running LLM workloads on Kubernetes.  It offers a FastAPI inference service, Airflow pipelines, Kubernetes manifests and monitoring to demonstrate elastic scaling, workflow automation and observability【110169918284289†L0-L63】.
-- **Flowise (fork)** – A fork of Flowise: a drag‑and‑drop UI for building customized LLM flows.  It allows you to install and run Flowise locally and includes developer instructions for self‑hosting【603844835702499†L0-L17】【603844835702499†L26-L37】.
+- **Transcriber** – A command‑line tool that converts video/audio into text using OpenAI’s transcription models.  It leverages `ffmpeg` to convert media to audio and automatically transcribes via the OpenAI API.
+- **Puppet Demo** – An educational environment combining Vagrant, Ansible and Puppet to provision and enforce a simple web server.  Ansible installs Apache and Puppet ensures `/var/www/html/index.html` contains a predefined message with periodic enforcement.
+- **LLMThreatModeler** – Generates STRIDE‑based threat models from architectural descriptions.  It decomposes systems into components, enumerates threats, produces Mermaid diagrams, and saves Markdown reports.
+- **AI LeetCode Battle Arena** – A web app where multiple LLMs compete to solve and evaluate coding problems.  It supports OpenAI and Anthropic models, keeps API keys server‑side, and features an interactive front‑end.
+- **MLOps RAG Pipeline** – A production‑ready Retrieval‑Augmented Generation (RAG) pipeline on Kubernetes.  It includes a Streamlit UI, FastAPI gateway, vector database (Qdrant), Helm charts, Kubernetes manifests and deployment scripts with monitoring via Prometheus/Grafana.
 
 ## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?logo=puppet&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
