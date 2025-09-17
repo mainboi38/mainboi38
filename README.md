@@ -15,6 +15,7 @@
   <a href="https://github.com/mainboi38/LLMThreatModeler"><img src="https://img.shields.io/badge/🛡️_Threat_Modeler-6A5ACD?style=for-the-badge&logo=security&logoColor=white&labelColor=20B2AA" /></a>
   <a href="https://github.com/mainboi38/LLM_LeetCodeArena"><img src="https://img.shields.io/badge/🏟️_AI_Arena-20B2AA?style=for-the-badge&logo=codewars&logoColor=white&labelColor=6A5ACD" /></a>
   <a href="https://github.com/mainboi38/mlops-rag-pipeline"><img src="https://img.shields.io/badge/🚀_MLOps_Pipeline-6A5ACD?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=20B2AA" /></a>
+  <a href="https://github.com/mainboi38/FineTunedStockLLM"><img src="https://img.shields.io/badge/📈_FineTuned_Stock_LLM-20B2AA?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=6A5ACD" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,14,16,18,20&height=100&section=header&reversal=true" width="100%" />
@@ -87,14 +88,22 @@ Outputs Mermaid diagrams & Markdown reports.
 ### 🏟️ **AI LeetCode Arena**
 <img src="https://img.shields.io/badge/Status-Active-20B2AA?style=flat-square&logo=codewars" />
 
-Web app where multiple LLMs compete to solve coding challenges.  
+Web app where multiple LLMs compete to solve coding challenges.
 Supports OpenAI + Anthropic, with live front-end scoring.
 
 **Stack:** React ⚛️ | Node.js 🟢 | AI APIs 🤖
 
 </td>
 <td width="50%" valign="top">
-<!-- Empty placeholder so grid stays aligned -->
+
+### 📈 **FineTuned Stock LLM**
+<img src="https://img.shields.io/badge/Status-Research-20B2AA?style=flat-square&logo=chartdotjs" />
+
+Domain-tuned large language model delivering market intelligence and portfolio insights.
+Blends fine-tuned chat workflows with retrieval over SEC filings and earnings transcripts.
+
+**Stack:** Python 🐍 | Hugging Face 🤗 | Vector DB 📚 | LangChain 🧩
+
 </td>
 </tr>
 </table>
