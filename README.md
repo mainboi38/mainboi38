@@ -43,7 +43,7 @@ I build tools that orchestrate infrastructure, makes cloud migrations easier, an
 CLI tool that converts video/audio into text using OpenAI’s transcription models.  
 Uses `ffmpeg` for conversion and integrates with the OpenAI API.
 
-**Stack:** Python 🐍 | OpenAI API 🤖 | FFmpeg 🎵
+**Stack:** Python 🐍 | OpenAI SDK 🤖 | FFmpeg 🎵
 
 </td>
 <td width="50%" valign="top">
@@ -54,7 +54,7 @@ Uses `ffmpeg` for conversion and integrates with the OpenAI API.
 LLM-powered co-pilot that streamlines Kubernetes day-2 operations and troubleshooting.
 Surfaces real-time telemetry, recommends fixes, and can trigger automated remediation runs.
 
-**Stack:** LangChain 🧠 | Kubernetes API ☸️ | FastAPI ⚡ | Prometheus 📊
+**Stack:** Python 🐍 | OpenAI SDK 🤖 | Kubernetes ☸️ |
 
 </td>
 </tr>
