@@ -11,7 +11,7 @@
 <!-- Navigation badges -->
 <p align="center">
   <a href="https://github.com/mainboi38/Transcriber"><img src="https://img.shields.io/badge/🎤_Transcriber-6A5ACD?style=for-the-badge&logo=openai&logoColor=white&labelColor=20B2AA" /></a>
-  <a href="https://github.com/mainboi38/puppetdemo"><img src="https://img.shields.io/badge/🎭_Puppet_Demo-20B2AA?style=for-the-badge&logo=puppet&logoColor=white&labelColor=6A5ACD" /></a>
+  <a href="https://github.com/mainboi38/AIKubeHelper"><img src="https://img.shields.io/badge/🤖_AIKubeHelper-20B2AA?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=6A5ACD" /></a>
   <a href="https://github.com/mainboi38/LLMThreatModeler"><img src="https://img.shields.io/badge/🛡️_Threat_Modeler-6A5ACD?style=for-the-badge&logo=security&logoColor=white&labelColor=20B2AA" /></a>
   <a href="https://github.com/mainboi38/LLM_LeetCodeArena"><img src="https://img.shields.io/badge/🏟️_AI_Arena-20B2AA?style=for-the-badge&logo=codewars&logoColor=white&labelColor=6A5ACD" /></a>
   <a href="https://github.com/mainboi38/mlops-rag-pipeline"><img src="https://img.shields.io/badge/🚀_MLOps_Pipeline-6A5ACD?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=20B2AA" /></a>
@@ -48,13 +48,13 @@ Uses `ffmpeg` for conversion and integrates with the OpenAI API.
 </td>
 <td width="50%" valign="top">
 
-### 🎭 **Puppet Demo**
-<img src="https://img.shields.io/badge/Status-Educational-20B2AA?style=flat-square&logo=puppet" />
+### 🤖 **AIKubeHelper**
+<img src="https://img.shields.io/badge/Status-Active-20B2AA?style=flat-square&logo=robot" />
 
-Educational setup with Vagrant, Ansible & Puppet to provision a simple web server.  
-Apache via Ansible + Puppet ensures `/var/www/html/index.html` stays consistent.
+LLM-powered co-pilot that streamlines Kubernetes day-2 operations and troubleshooting.
+Surfaces real-time telemetry, recommends fixes, and can trigger automated remediation runs.
 
-**Stack:** Vagrant 📦 | Ansible ⚙️ | Puppet 🎭
+**Stack:** LangChain 🧠 | Kubernetes API ☸️ | FastAPI ⚡ | Prometheus 📊
 
 </td>
 </tr>
