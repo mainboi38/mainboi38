@@ -54,7 +54,7 @@ Uses `ffmpeg` for conversion and integrates with the OpenAI API.
 LLM-powered co-pilot that streamlines Kubernetes day-2 operations and troubleshooting.
 Surfaces real-time telemetry, recommends fixes, and can trigger automated remediation runs.
 
-**Stack:** Python 🐍 | OpenAI SDK 🤖 | Kubernetes ☸️ |
+**Stack:** Python 🐍 | OpenAI SDK 🤖 | Kubernetes ☸️
 
 </td>
 </tr>
