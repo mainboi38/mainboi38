@@ -10,7 +10,7 @@
 
 <!-- Navigation badges -->
 <p align="center">
-  <a href="https://github.com/mainboi38/Transcriber"><img src="https://img.shields.io/badge/🎤_Transcriber-6A5ACD?style=for-the-badge&logo=openai&logoColor=white&labelColor=20B2AA" /></a>
+  <a href="https://github.com/mainboi38/AIElasticAgent"><img src="https://img.shields.io/badge/🧠_AIElasticAgent-6A5ACD?style=for-the-badge&logo=openai&logoColor=white&labelColor=20B2AA" /></a>
   <a href="https://github.com/mainboi38/AIKubeHelper"><img src="https://img.shields.io/badge/🤖_AIKubeHelper-20B2AA?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=6A5ACD" /></a>
   <a href="https://github.com/mainboi38/LLMThreatModeler"><img src="https://img.shields.io/badge/🛡️_Threat_Modeler-6A5ACD?style=for-the-badge&logo=security&logoColor=white&labelColor=20B2AA" /></a>
   <a href="https://github.com/mainboi38/LLM_LeetCodeArena"><img src="https://img.shields.io/badge/🏟️_AI_Arena-20B2AA?style=for-the-badge&logo=codewars&logoColor=white&labelColor=6A5ACD" /></a>
@@ -37,13 +37,18 @@ I build tools that orchestrate infrastructure, makes cloud migrations easier, an
 <tr>
 <td width="50%" valign="top">
 
-### 🎤 **Transcriber**
+### 🧠 **AIElasticAgent**
 <img src="https://img.shields.io/badge/Status-Production_Ready-6A5ACD?style=flat-square&logo=checkmarx" />
 
-CLI tool that converts video/audio into text using OpenAI’s transcription models.  
-Uses `ffmpeg` for conversion and integrates with the OpenAI API.
+AIElasticAgent is an autonomous observability co-pilot built for the Elastic Stack.
+It correlates logs, metrics, and traces, summarizes incidents for SREs, and can trigger runbook automations through Elastic Agent actions.
 
-**Stack:** Python 🐍 | OpenAI SDK 🤖 | FFmpeg 🎵
+**Highlights:**
+- Multi-agent reasoning with planners and executors that perform root-cause analysis across Elastic datasets.
+- Retrieval-augmented insights that surface similar past incidents, dashboards, and knowledge base articles.
+- Workflow connectors for creating ServiceNow tickets, posting Slack updates, and running remediation scripts via Kibana.
+
+**Stack:** Python 🐍 | LangChain 🧩 | Elastic Stack 📊 | OpenAI Function Calling 🤖
 
 </td>
 <td width="50%" valign="top">
