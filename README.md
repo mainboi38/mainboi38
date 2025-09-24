@@ -43,6 +43,8 @@ I build tools that orchestrate infrastructure, makes cloud migrations easier, an
 AIElasticAgent turns natural-language requests into ready-to-use Kibana dashboards.
 Describe the visualizations, filters, and metrics you want, and the agent assembles the layout automatically using Elastic APIs.
 
+**Stack:** Python 🐍 | LangChain 🧩 | Elasticsearch 🔍 | Kibana 📊 | OpenAI SDK 🤖
+
 </td>
 <td width="50%" valign="top">
 
