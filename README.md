@@ -10,7 +10,7 @@
 
 <!-- Navigation badges -->
 <p align="center">
-  <a href="https://github.com/mainboi38/Transcriber"><img src="https://img.shields.io/badge/🎤_Transcriber-6A5ACD?style=for-the-badge&logo=openai&logoColor=white&labelColor=20B2AA" /></a>
+  <a href="https://github.com/mainboi38/AIElasticAgent"><img src="https://img.shields.io/badge/🧠_AIElasticAgent-6A5ACD?style=for-the-badge&logo=openai&logoColor=white&labelColor=20B2AA" /></a>
   <a href="https://github.com/mainboi38/AIKubeHelper"><img src="https://img.shields.io/badge/🤖_AIKubeHelper-20B2AA?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=6A5ACD" /></a>
   <a href="https://github.com/mainboi38/LLMThreatModeler"><img src="https://img.shields.io/badge/🛡️_Threat_Modeler-6A5ACD?style=for-the-badge&logo=security&logoColor=white&labelColor=20B2AA" /></a>
   <a href="https://github.com/mainboi38/LLM_LeetCodeArena"><img src="https://img.shields.io/badge/🏟️_AI_Arena-20B2AA?style=for-the-badge&logo=codewars&logoColor=white&labelColor=6A5ACD" /></a>
@@ -37,13 +37,18 @@ I build tools that orchestrate infrastructure, makes cloud migrations easier, an
 <tr>
 <td width="50%" valign="top">
 
-### 🎤 **Transcriber**
+### 🧠 **AIElasticAgent**
 <img src="https://img.shields.io/badge/Status-Production_Ready-6A5ACD?style=flat-square&logo=checkmarx" />
 
-CLI tool that converts video/audio into text using OpenAI’s transcription models.  
-Uses `ffmpeg` for conversion and integrates with the OpenAI API.
+AIElasticAgent turns natural-language requests into ready-to-use Kibana dashboards.
+Describe the visualizations, filters, and metrics you want, and the agent assembles the layout automatically using Elastic APIs.
 
-**Stack:** Python 🐍 | OpenAI SDK 🤖 | FFmpeg 🎵
+**Highlights:**
+- Understands plain-language requirements to map Elastic index patterns, queries, and visualization types.
+- Generates dashboard JSON and publishes it through the Kibana Saved Objects API—no manual clicking required.
+- Supports iterative refinement so users can tweak dashboards conversationally.
+
+**Stack:** Python 🐍 | Elastic Saved Objects API 📊 | OpenAI Function Calling 🤖
 
 </td>
 <td width="50%" valign="top">
