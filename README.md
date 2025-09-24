@@ -49,6 +49,16 @@ Describe the visualizations, filters, and metrics you want, and the agent assemb
 - Supports iterative refinement so users can tweak dashboards conversationally.
 
 **Stack:** Python 🐍 | Elastic Saved Objects API 📊 | OpenAI Function Calling 🤖
+=======
+AIElasticAgent is an autonomous observability co-pilot built for the Elastic Stack.
+It correlates logs, metrics, and traces, summarizes incidents for SREs, and can trigger runbook automations through Elastic Agent actions.
+
+**Highlights:**
+- Multi-agent reasoning with planners and executors that perform root-cause analysis across Elastic datasets.
+- Retrieval-augmented insights that surface similar past incidents, dashboards, and knowledge base articles.
+- Workflow connectors for creating ServiceNow tickets, posting Slack updates, and running remediation scripts via Kibana.
+
+**Stack:** Python 🐍 | LangChain 🧩 | Elastic Stack 📊 | OpenAI Function Calling 🤖
 
 </td>
 <td width="50%" valign="top">
