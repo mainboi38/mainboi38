@@ -40,6 +40,16 @@ I build tools that orchestrate infrastructure, makes cloud migrations easier, an
 ### 🧠 **AIElasticAgent**
 <img src="https://img.shields.io/badge/Status-Production_Ready-6A5ACD?style=flat-square&logo=checkmarx" />
 
+AIElasticAgent turns natural-language requests into ready-to-use Kibana dashboards.
+Describe the visualizations, filters, and metrics you want, and the agent assembles the layout automatically using Elastic APIs.
+
+**Highlights:**
+- Understands plain-language requirements to map Elastic index patterns, queries, and visualization types.
+- Generates dashboard JSON and publishes it through the Kibana Saved Objects API—no manual clicking required.
+- Supports iterative refinement so users can tweak dashboards conversationally.
+
+**Stack:** Python 🐍 | Elastic Saved Objects API 📊 | OpenAI Function Calling 🤖
+=======
 AIElasticAgent is an autonomous observability co-pilot built for the Elastic Stack.
 It correlates logs, metrics, and traces, summarizes incidents for SREs, and can trigger runbook automations through Elastic Agent actions.
 
