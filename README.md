@@ -122,9 +122,9 @@ Blends fine-tuned chat workflows with retrieval over SEC filings and earnings tr
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-20B2AA?style=for-the-badge&logo=node.js&logoColor=white)
+//![Node.js](https://img.shields.io/badge/Node.js-20B2AA?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-6A5ACD?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20B2AA?style=for-the-badge&logo=react&logoColor=white)
+//![React](https://img.shields.io/badge/React-20B2AA?style=for-the-badge&logo=react&logoColor=white)
 
 ### **DevOps & Infra**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-6A5ACD?style=for-the-badge&logo=kubernetes&logoColor=white)
